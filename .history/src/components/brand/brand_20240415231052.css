@@ -1,0 +1,7 @@
+.gpt3__brand{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+    width: 100%;
+}

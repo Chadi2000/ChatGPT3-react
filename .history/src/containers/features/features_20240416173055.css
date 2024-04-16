@@ -1,0 +1,6 @@
+.gpt3__features{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: flex-start;
+}
