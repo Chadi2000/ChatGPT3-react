@@ -1,0 +1,11 @@
+.gpt3__possibility{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.gpt3__possibility-image{
+    width: 546px;
+}

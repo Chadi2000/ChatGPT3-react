@@ -1,0 +1,24 @@
+.gpt3__possibility{
+    display: flex;
+    flex-direction: row;
+}
+
+.gpt3__possibility-image{
+    flex:1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    margin-right: 2rem;
+}
+.gpt3__possibility-image img{
+    
+}
+
+.gpt3__possibilty-content{
+    flex: 2;
+    width: 479px;
+    height: 334px;
+    top: 2655px;
+    left: 742px;
+}
