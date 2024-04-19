@@ -1,0 +1,18 @@
+.gpt3__blog-container_article{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background: var(--color-footer);
+}
+.gpt3__blog-container_article-image{
+    height: 100%;
+    width: 100%;
+    background: var(--color-footer);
+
+}
+.gpt3__blog-container_article-image img{
+    width: 417.03px;
+    height: 287.73px;
+}

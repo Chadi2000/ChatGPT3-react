@@ -1,0 +1,9 @@
+.gpt3__footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.gpt3__footer-heading{
+    padding: 2rem;
+}

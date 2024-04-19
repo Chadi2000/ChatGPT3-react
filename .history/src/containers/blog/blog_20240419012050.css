@@ -1,0 +1,11 @@
+.gpt3__blog{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.gpt3__blog-heading{
+    padding-bottom: 3rem;
+    width: 100%;
+    height: 100%;
+}

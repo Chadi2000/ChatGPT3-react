@@ -1,0 +1,10 @@
+.gpt3__footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: var(--color-footer);
+}
+
+.gpt3__footer-heading{
+    
+}
